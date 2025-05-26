@@ -14,3 +14,4 @@ public class SmartThermostat {
     }
 }
 
+// Triggering GitHub Actions test run
